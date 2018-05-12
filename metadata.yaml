@@ -1,0 +1,26 @@
+_repo: --_24136
+_version: 0.1.0
+alternative_title: Zuo Zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zuoqiu, Ming
+    alias: 左丘明
+    gutenberg_agent_id: '26267'
+    url: http://www.gutenberg.org/2009/agents/26267
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24136'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confucius. Chun qiu'
+- !lcc 'PL'
+title: 左傳
+url: http://www.gutenberg.org/ebooks/24136
